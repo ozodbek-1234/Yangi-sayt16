@@ -5,6 +5,13 @@
 * Browsers: last 4 version
 */
 
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
 /* GOOGLE FONTS */
 @font-face {
     font-family: 'Open Sans';
@@ -508,6 +515,9 @@ h5 {
 }
 .serivices-logo:hover{
     opacity: 0.6;
+}
+.services-section {
+    text-align: center;
 }
 
 /* order */
